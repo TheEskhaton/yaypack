@@ -1,0 +1,20 @@
+{
+  "name": "yaypack",
+  "version": "0.0.1",
+  "description": "A module unifying JSON configs for various tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheEskhaton/yaypack.git"
+  },
+  "keywords": [
+    "json",
+    "config",
+    "packer"
+  ],
+  "author": "Alen Genzić",
+  "license": "BSD"
+}
